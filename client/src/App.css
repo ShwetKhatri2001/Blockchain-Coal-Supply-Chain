@@ -1,0 +1,87 @@
+* {
+  background-color: #333;
+  color: #fff;
+}
+h2,
+h5,
+h6 {
+  background-color: #fff;
+  color: #333;
+}
+
+.container {
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+  border: 2px;
+}
+hr {
+  position: relative;
+  top: 20px;
+  border: none;
+  height: 12px;
+  background: black;
+}
+.wait {
+  text-align: center;
+  margin-top: 5rem;
+}
+.header {
+  border: 2px;
+  padding: 10px;
+}
+.register {
+  background-color: #fff;
+  border: 2px solid #ccc; /* Border color and width */
+  border-radius: 8px; /* Border radius for rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); /* Shadow effect */
+  padding: 20px; /* Add padding to create some space inside the border */
+}
+.ordermedicines {
+  background-color: #fff;
+  border: 2px solid #ccc; /* Border color and width */
+  border-radius: 8px; /* Border radius for rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); /* Shadow effect */
+  padding: 20px; /* Add padding to create some space inside the border */
+}
+.controlchain {
+  background-color: #fff;
+  border: 2px solid #ccc; /* Border color and width */
+  border-radius: 8px; /* Border radius for rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); /* Shadow effect */
+  padding: 20px; /* Add padding to create some space inside the border */
+}
+.track {
+  background-color: #fff;
+  border: 2px solid #ccc; /* Border color and width */
+  border-radius: 8px; /* Border radius for rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); /* Shadow effect */
+  padding: 20px; /* Add padding to create so */
+}
+.btn,
+.btn:hover {
+  background-color: #333 !important;
+  color: #fff !important;
+  border: none !important;
+}
+
+.btn-outline-success,
+.btn-outline-success:hover {
+  background-color: #fff !important;
+  color: #333 !important;
+}
+
+.btn-outline-danger,
+.btn-outline-danger:hover {
+  background-color: rgb(84, 137, 244) !important;
+  color: #fff !important;
+  margin-left: 10px;
+  border: none !important;
+}
+
+.form-control-sm {
+  background-color: #fff;
+  color: #333 !important;
+  outline: none;
+  margin-right: 10px;
+}
