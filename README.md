@@ -8,8 +8,6 @@
   </h3>
 </div>
 
-<h4 align="center">A Coal Supply Chain Management System implemented with <a href="https://docs.soliditylang.org/en/v0.8.4/" target="_blank">Solidity</a>.</h4>
-
 <p align="center">
   <a href="#description">Description</a> •
   <a href="#problem">Problem</a> •
@@ -17,7 +15,6 @@
   <a href="#key-features">Key Features</a> •
   <a href="#implementation-flow">Implementation Flow</a> •
   <a href="#contract-diagrams">Contract Diagrams</a> •
-  <a href="#technologies-used">Technologies Used</a> •
   <a href="#installation-and-setup">Installation and Setup</a>
 </p>
 
